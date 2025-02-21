@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "17270767094",
+    "firebase_url": "https://nrg-quiz-default-rtdb.firebaseio.com",
+    "project_id": "nrg-quiz",
+    "storage_bucket": "nrg-quiz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17270767094:android:ce4c280d483ecc94ff9bd7",
+        "android_client_info": {
+          "package_name": "com.example.nrg_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFDZOaC80x2AYsO5Z_Rwkxn3gfk9nRBd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
